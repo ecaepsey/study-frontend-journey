@@ -5,4 +5,4 @@ Checklist
 
  Тип| тема | Прогресс
 ------------ | ------------- | -------------
-Javascript | Прототипы  | :white_check_mark:
+Javascript | Прототипы  | 
