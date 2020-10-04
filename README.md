@@ -1,8 +1,8 @@
 # study-frontend-journey
 Checklist
 
+# Web
 
-
-First Header | Second Header
+ Тип| тема | Прогресс
 ------------ | -------------
-sdjflkdjs | kasjdaklsjd
+Javascript | Прототипы  | :white_check_mark:
