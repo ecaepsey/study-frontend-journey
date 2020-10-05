@@ -12,7 +12,7 @@ Javascript | Прототипы  |
 
  Тип| тема 
 ------------ | ------------- 
-Keremet bank | Финансовое приложение 
+Keremet bank |[GitHub](http://github.com)
 Inkom | Финансовое приложение 
 
 
